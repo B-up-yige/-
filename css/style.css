@@ -36,7 +36,7 @@ nav li a {
 }
 
 section.hero {
-  background-image: url("hero-background.jpg");
+  background-image: url("../pic/round.gif");
   background-size: cover;
   background-position: center;
   color: #fff;
